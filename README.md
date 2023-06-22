@@ -2,7 +2,8 @@
 
 **This repository includes all of the projects I completed during my B.Tech program.**
 
-1) News App : 
+1) News App :
+   
     Our news app is optimized for fast delivery of the latest news across multiple categories including business, sports, entertainment, technology, health, science, and more.
    
     Technology Used: Node.js, React.js
